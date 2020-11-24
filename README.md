@@ -8,6 +8,12 @@
 
 ⛔ pkg install bash
 
-⛔ 
-⛔ 
-⛔
+⛔ git clone https://github.com/heshanTMD/Formet-Sd
+
+⛔ ls
+
+⛔ cd Formet-Sd
+
+⛔ ls
+
+⛔ bash 
