@@ -16,4 +16,4 @@
 
 ⛔ ls
 
-⛔ bash 
+⛔ bash Formet.sh
